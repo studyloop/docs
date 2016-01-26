@@ -1,4 +1,4 @@
-# Legal: Privacy Policy
+# StudyLoop Legal: Privacy Policy
 
 ## General Information
 
