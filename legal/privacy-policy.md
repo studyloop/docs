@@ -24,10 +24,16 @@ Cookies are not currently used by StudyLoop.
 
 ## Data Storage
 
-StudyLoop uses third-party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run StudyLoop. Although StudyLoop owns the code, databases, and all rights to the StudyLoop application, you retain all rights to your data.
+StudyLoop uses third-party vendors and hosting partners, including but not limited to Firebase, Github, Bitbucket, and Amazon Web Services, to provide the necessary hardware, software, networking, storage, and related technology required to run StudyLoop. Although StudyLoop owns the code, databases, and all rights to the StudyLoop application, you retain all rights to your data.
 
 ***
 
 ## Disclosure
 
 StudyLoop may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+
+***
+
+## Questions
+
+Any questions about this Privacy Policy should be addressed to team@getstudyloop.com.
