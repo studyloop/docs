@@ -16,7 +16,7 @@ If StudyLoop makes material changes to these Terms, we will notify you by email 
 6. You are responsible for all Content posted and activity that occurs under your account.
 7. One person or legal entity may not maintain more than one account.
 8. You may not use the Service for any illegal or unauthorized purpose. You must not, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
-9. 
+9. If you actually read this then email us and we will send you a StudyLoop t-shirt or sticker.
 
 # B. Cancellation and Termination
 
